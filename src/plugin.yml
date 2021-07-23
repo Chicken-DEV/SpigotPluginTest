@@ -1,5 +1,7 @@
 name: TestPlugin
 version: 1.0
 author: Chicken-DEV
-main: me.theowl.test.Main
+main: me.theowl.test.Plugin
 api-version: 1.12.2
+commands:
+  giveitem:
