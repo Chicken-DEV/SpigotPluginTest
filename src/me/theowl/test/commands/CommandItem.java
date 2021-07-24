@@ -31,7 +31,7 @@ public class CommandItem implements CommandExecutor {
 			return true;
 		}
 		if (args.length != 1) {
-			sender.sendMessage("§4Wrong syntax: /");
+			sender.sendMessage("§4Wrong syntax: /giveitem");
 			return true;
 		}
 		
